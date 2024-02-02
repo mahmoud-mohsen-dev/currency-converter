@@ -4,7 +4,7 @@
 
 ## Try it Live!
 
-Check out the live app [Currency Calculator]()
+Check out the live app [Currency Calculator](https://currency-calculator-demo.vercel.app/)
 
 ## Tools Used
 
@@ -17,12 +17,12 @@ Check out the live app [Currency Calculator]()
 1. Clone this repository.
 
     ```bash
-    git clone https://github.com/mahmoud-mohsen-dev/currencyConverter.git
+    git clone https://github.com/mahmoud-mohsen-dev/currency-converter.git
     ```
 
 2. Navigate to the Project Directory:
     ```bash
-    cd currencyConverter
+    cd currency-converter
     ```
 3. Install Dependencies:
 
